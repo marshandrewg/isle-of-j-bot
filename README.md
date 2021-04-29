@@ -1,10 +1,3 @@
-# musical-winner
-https://code.visualstudio.com/
-https://git-scm.com/downloads
-https://www.python.org/downloads/
+# musical-winner docs
 
-Make an account on github.com
-Send me discord message with your username or email used to make account
-
-https://discordpy.readthedocs.io/en/stable/intro.html#installing
-https://pypi.org/project/python-dotenv/
+We'll include any relevant markdown guides for our different cogs and changelogs here. 
