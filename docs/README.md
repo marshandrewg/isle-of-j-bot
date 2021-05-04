@@ -1,4 +1,4 @@
-#jank-bot
+# musical-winner
 
 ## Tools
 * VS Code (for editing): https://code.visualstudio.com/
@@ -14,5 +14,3 @@
 ## Helpful Links
 https://discordpy.readthedocs.io/en/stable/intro.html#installing
 https://pypi.org/project/python-dotenv/
-
-We'll include any relevant markdown guides for our different cogs and changelogs here. 
