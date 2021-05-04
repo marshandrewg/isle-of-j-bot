@@ -1,4 +1,4 @@
-#jank-bot
+# jank-bot
 
 ## Tools
 * VS Code (for editing): https://code.visualstudio.com/
