@@ -3,7 +3,6 @@
 ## Tools
 * VS Code (for editing): https://code.visualstudio.com/
 * Git (for sharing edits): https://git-scm.com/downloads
-* Python (for managing libraries and running code): https://www.python.org/downloads/
 
 ## Get Started by Downloading and Getting Added as a Contributor
 1. Make an account on github.com.\
