@@ -5,7 +5,7 @@
 * Git (for sharing edits): https://git-scm.com/downloads
 
 ## Get Started by Downloading and Getting Added as a Contributor
-1. Make an account on github.com.\
+1. Make an account on github.com.
 2. Clone the repository with 
    * `git clone https://github.com/marshandrewg/musical-winner.git` :octocat:
    * or through VS Code's Clone Git Repository feature :rocket:
