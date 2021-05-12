@@ -4,6 +4,6 @@
     # Token for the repository. Can be passed in using {{ secrets.GITHUB_TOKEN }}
     repo-token: 
     # Comment to post on an individual's first issue
-    issue-message: You submitted your first issue :raising_hand:! Keep on keeping on :raised_hands::computer:
+    issue-message: "You submitted your first issue :raising_hand:! Keep on keeping on :raised_hands:"
     # Comment to post on an individual's first pull request
-    pr-message: You submitted your first pull request! Awesome work :sunglasses:
+    pr-message: "You submitted your first pull request! Awesome work :sunglasses:"
