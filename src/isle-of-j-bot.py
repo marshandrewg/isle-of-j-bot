@@ -1,6 +1,7 @@
 # This example requires the 'members' privileged intents
 
 import discord
+import requests
 from discord.ext import commands
 import random
 
